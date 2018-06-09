@@ -7,3 +7,5 @@
  // bug fixed in the main
 
  // a critical bug fixed from Awesome feature Branch A
+
+ // new global module injected...
